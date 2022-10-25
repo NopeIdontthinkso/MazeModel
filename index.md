@@ -86,4 +86,4 @@ This is the program for the wall.They are written in 'player',and will detect th
     ```
 
 
-A link to the [integral code](https://github.com/NopeIdontthinkso/pythonclass0/blob/main/mapp/map.py)
+A link to the [integral code](https://github.com/NopeIdontthinkso/MapModel.git)
