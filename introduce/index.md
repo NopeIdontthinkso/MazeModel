@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
-# Game
+# MazeModel
 by Jevil
 
 ![game](vid.gif)
